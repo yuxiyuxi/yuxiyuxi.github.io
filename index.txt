@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>无标题文档</title>
+<style type="text/css">
+<!--
+.STYLE5 {
+	color: #9966FF;
+	font-weight: bold;
+	font-style: italic;
+}
+body {
+	background-color: #C7FEA3;
+	background-image: url(%E5%9B%BE%E7%89%87/1-130410120113.jpg);
+	background-repeat: no-repeat;
+}
+.STYLE7 {font-size: 12px}
+.STYLE9 {font-size: 16px}
+.STYLE10 {
+	font-size: 16px;
+	font-weight: bold;
+	font-style: italic;
+}
+.STYLE11 {font-size: 16px; font-weight: bold; font-style: italic; color: #000000; }
+-->
+</style>
+</head>
+
+<body>
+<h1 align="center"><span class="STYLE5">走吧，一起去旅行</span></h1>
+<table width="1371" height="41" border="1">
+  <tr>
+    <td width="339" bordercolor="#FFCC99" bgcolor="#CCCCFF"><div align="center"><span class="STYLE9"><a href="柳川.html">春风十里不如你</a></span><a href="柳川.html"><span class="STYLE7">—最心水的地方</span></a></div></td>
+    <td width="344" bordercolor="#FFCC99" bgcolor="#CCCCFF"><div align="center" class="STYLE9"><a href="时间.html">在最美的时候遇见你</a></div></td>
+    <td width="346" bordercolor="#FFCC99" bgcolor="#CCCCFF"><div align="center"><span class="STYLE9"><a href="拍照.html">如何不枉费一场旅行-</a></span><a href="拍照.html"><span class="STYLE7">拍照小技巧</span></a></div></td>
+    <td width="326" bordercolor="#FFCC99" bgcolor="#CCCCFF"><div align="center"><span class="STYLE9"><a href="书籍.html">关于旅行的书籍</a></span></div></td>
+  </tr>
+</table>
+<p><img src="图片/6d38ee54gw1f12h0h7xnpj20c80c8mxl.jpg" width="450" height="450" /><img src="图片/6d38ee54gw1f12h0fn9rvj20c80c8dgh.jpg" width="450" height="450" /><img src="图片/6d38ee54gw1f12h0jd96jj20c80c475e.jpg" width="450" height="450" /></p>
+<p align="center" class="STYLE11">去了不同的地方，看了不同的风景，知道了不同的事。凌晨，随着滑轮接触地面，飞机一阵抖动，我终于说出了最后一句再见。</p>
+<p align="right" class="STYLE10">——14级电商01班于熙</p>
+<p>&nbsp;</p>
+</body>
+</html>
